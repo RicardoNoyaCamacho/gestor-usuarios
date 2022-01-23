@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Aplicación en React que simula la gestión de usuarios con Formularios
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
